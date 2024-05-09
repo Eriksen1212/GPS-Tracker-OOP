@@ -41,4 +41,6 @@ This project focuses on developing an Object-Oriented Programming (OOP) solution
 
 ## Usage
 
+![image](https://github.com/Eriksen1212/GPS-Tracker-OOP/assets/112687286/cf4e682e-f56e-4031-9b25-db97f587e165)
+
 To run the demonstration program, execute the following command:
