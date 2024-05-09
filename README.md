@@ -35,3 +35,10 @@ This project focuses on developing an Object-Oriented Programming (OOP) solution
 - **KML File Output:** Extend the `Track` class to support exporting data in KML format for visualization in mapping software.
 
 ## Development Environment
+
+- Utilize Gradle for building and testing the application.
+- Implement unit tests to ensure each method performs as expected.
+
+## Usage
+
+To run the demonstration program, execute the following command:
